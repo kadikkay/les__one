@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/les__one/static/css/main.5129b42b.css",
+    "main.js": "/les__one/static/js/main.eb60a5bd.js",
+    "static/js/453.ed3810f9.chunk.js": "/les__one/static/js/453.ed3810f9.chunk.js",
+    "static/media/Rectangle 1.png": "/les__one/static/media/Rectangle 1.fd6f555a7e29f3d71334.png",
+    "index.html": "/les__one/index.html",
+    "main.5129b42b.css.map": "/les__one/static/css/main.5129b42b.css.map",
+    "main.eb60a5bd.js.map": "/les__one/static/js/main.eb60a5bd.js.map",
+    "453.ed3810f9.chunk.js.map": "/les__one/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5129b42b.css",
+    "static/js/main.eb60a5bd.js"
+  ]
+}
